@@ -1,0 +1,4 @@
+---
+BUNDLE_BUILD__MYSQL: --with-mysql-config=/usr/local/mysql/bin/mysql_config
+BUNDLE_PATH: vendor
+BUNDLE_BIN: .bin
